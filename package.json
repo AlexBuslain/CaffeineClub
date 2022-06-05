@@ -1,0 +1,22 @@
+{
+  "name": "caffeineclub",
+  "version": "1.0.0",
+  "description": "Projet réalisé dans le cadre d'un projet à l'ECAM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBuslain/CaffeineClub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBuslain/CaffeineClub/issues"
+  },
+  "homepage": "https://github.com/AlexBuslain/CaffeineClub#readme",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.10"
+  }
+}
